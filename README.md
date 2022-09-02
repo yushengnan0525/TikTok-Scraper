@@ -2,7 +2,7 @@
 This is an unofficial tool for collecting TikTokers' metadata (in this case, average views for the latest 30 TikToks, engagement rate and engagement rate by reach).
 
 ## Background
-👋 Hi, My name is Tony Yu, I'm working as a growth manager at a social media company. I collab with a lot of influencers for work, and it had been a pain in the ass collecting each video's views, likes, comments, shares, etc., and then writing them down in a spreadsheet over and over again. So I made this scraper to fetch the info I need, and I wanted to share it with people who may happen to be interested in it.
+I collab with a lot of TikTokers for work, and it had been a pain in the ass collecting each video's views, likes, comments, shares, etc., and then copy paste them in a google spreadsheet over and over again. So I made this scraper to fetch (and calculate) the data I need, and I wanted to share it with people who may also be interested in it :)
 
 ## Getting Started
 To start use the scrapper follow the instruction below.
